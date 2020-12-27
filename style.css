@@ -1,0 +1,61 @@
+ body{  
+    margin: 0;
+ } 
+
+
+td{
+    width:svw ;
+    border: 1px solid black;
+    text-align: center;
+    
+}
+
+.noBorder{
+    border: none;
+}
+
+.h1{
+    background-color: yellow;
+    padding:5px ;
+    font-size: 5vh;
+}
+
+.pink{
+    background-color:coral;
+}
+
+.purple{
+    background-color: plum;
+}
+
+.blue{
+    background-color:cornflowerblue;
+}
+
+.biscut{
+    background-color:khaki;
+}
+
+.brown{
+    background-color:darkgoldenrod;
+}
+
+.fat{
+    background-color:burlywood;
+}
+
+.c2-86{
+    background-color:skyblue;
+}
+
+.lgreen{
+    background-color: palegreen ;
+}
+
+.ac{
+    background-color: thistle;
+}
+
+.white{
+    background-color: whitesmoke;
+}
